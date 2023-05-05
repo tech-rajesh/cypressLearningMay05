@@ -1,0 +1,17 @@
+{
+  "name": "recap_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --spec .\cypress\e2e\amazonapp_xpath_screenshot\HRMLogin_spec.cy.js --browser chrome --headed"
+	
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}

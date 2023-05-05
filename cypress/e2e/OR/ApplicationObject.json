@@ -1,0 +1,25 @@
+{
+
+
+    "applicationURL": "",
+    "userName": "",
+    "password": "",
+
+
+    "homePage": {
+
+        "txtEmail" : "//input[@class='email valid']"
+
+    },
+
+    "loginPage": {
+
+        "txtEmail" : "//input[@class='email valid']"
+
+    }
+
+
+
+
+
+}
